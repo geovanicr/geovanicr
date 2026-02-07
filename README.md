@@ -52,7 +52,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-geovanicr@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovanicr@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-[0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/geovani-ribeiro-34243a337/))](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovani-ribeiro-34243a337/)
 
 </div>
 
