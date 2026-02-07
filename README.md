@@ -1,10 +1,10 @@
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Geovani%20CR&fontSize=50&fontColor=ffffff&animation=fadeIn)
+  <img src="https://github.com/geovanicr/geovanicr/blob/main/IA.jpeg?raw=true" width="100%" style="border-radius: 10px;">
 
 </div>
 
-<h1 align="center">👋 Olá! Eu sou o Geovani</h1>
+<h1 align="center">👋 Olá! Eu sou o Geovani Ribeiro</h1>
 
 <p align="center">
   <b>Educador Físico em transição para Tecnologia 💻</b>
