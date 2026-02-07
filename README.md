@@ -1,3 +1,7 @@
+<div align="center">
+  
+  <img src="https://github.com/geovanicr/geovanicr/blob/main/IA.jpeg?raw=true" width="100%" style="border-radius: 10px;">
+
 </div>
 
 <h1 align="center">👋 Olá! Eu sou o Geovani Ribeiro</h1>
