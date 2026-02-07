@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/geovanicr/geovanicr/blob/main/IA.jpeg?raw=true" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/geovanicr/geovanicr/blob/main/IA.jpeg?raw=true" width="80%">
 
 </div>
 
